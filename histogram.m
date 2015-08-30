@@ -19,7 +19,7 @@ for x=1:1:row
                end
 end
 for x=1:1:8
-    c(x)=b(x)/10;
+    c(x)=b(x)/12;%numel(a) can be used
 end
 
 subplot(1,2,1);
