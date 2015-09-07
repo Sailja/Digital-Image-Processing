@@ -1,1 +1,1 @@
-# Histogram-of-gray-scale-image
+#Matlab Codes for Digital Image Processing without using toolbox
